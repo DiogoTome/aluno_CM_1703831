@@ -4,3 +4,4 @@ nome: Diogo Tomé
 número:1703831
 
 curso:comunicação multimédia
+clube: GD Chaves
