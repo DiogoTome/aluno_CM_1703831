@@ -6,4 +6,4 @@ número:1703831
 curso:comunicação multimédia
 clube: GD Chaves
 
-![alt_text](./imagens/ipg.jpg.)
+![alt_text](./imagens/ipg.jpg)
