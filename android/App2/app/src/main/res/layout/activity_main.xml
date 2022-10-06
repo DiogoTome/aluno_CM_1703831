@@ -24,8 +24,7 @@
         android:layout_marginTop="157dp"
         android:layout_marginBottom="205dp"
         android:backgroundTint="#F30909"
-        android:onClick="Enviar
-"
+        android:onClick="Enviar"
         android:text="iniciar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
