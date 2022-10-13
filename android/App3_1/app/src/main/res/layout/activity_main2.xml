@@ -14,6 +14,7 @@
         android:layout_marginTop="122dp"
         android:layout_marginEnd="308dp"
         android:layout_marginBottom="542dp"
+        android:onClick="send4"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -28,10 +29,13 @@
         android:layout_marginTop="131dp"
         android:layout_marginEnd="207dp"
         android:layout_marginBottom="533dp"
+        android:onClick="send5"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toEndOf="@+id/imageButton5"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@mipmap/mickey5" />
 
     <ImageButton
@@ -42,6 +46,7 @@
         android:layout_marginTop="136dp"
         android:layout_marginEnd="115dp"
         android:layout_marginBottom="528dp"
+        android:onClick="send6"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imageButton6"
@@ -56,6 +61,7 @@
         android:layout_marginTop="143dp"
         android:layout_marginEnd="14dp"
         android:layout_marginBottom="521dp"
+        android:onClick="send7"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imageButton7"
