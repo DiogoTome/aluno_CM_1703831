@@ -62,13 +62,16 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@mipmap/mickey8" />
 
-    <ImageButton
-        android:id="@+id/imageButton9"
-        android:layout_width="122dp"
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="111dp"
         android:layout_height="117dp"
+        android:layout_marginStart="162dp"
+        android:layout_marginEnd="138dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@mipmap/mickey2" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
