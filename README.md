@@ -10,5 +10,5 @@ clube: GD Chaves
  
 
 branch de trabalho
-branch main
+branch auxiliar
 
