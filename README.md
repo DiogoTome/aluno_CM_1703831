@@ -30,7 +30,7 @@ Bibliografia	3
 
 Descrição do Trabalho
 // breve descrição do que consiste o trabalho
-![alt text](./imagens/projetodesenho.PNG)
+![alt text](./imagens/desenhodeprojeto.PNG)
 Activities Criadas	
   // colocar as activities criadas imagens e falar brevemente sobre elas
 Navegação entre as activities	
