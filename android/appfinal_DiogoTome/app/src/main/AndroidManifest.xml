@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Appfinal_DiogoTome">
         <activity
+            android:name=".MainActivity5"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity2"
             android:exported="false" />
         <activity
