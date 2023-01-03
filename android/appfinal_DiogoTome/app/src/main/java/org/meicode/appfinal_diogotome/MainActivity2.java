@@ -19,4 +19,12 @@ public class MainActivity2 extends AppCompatActivity {
         Intent intent=new Intent( this ,MainActivity3.class);
         startActivity(intent);
     }
+
+
+    public void voltar (View view) {
+        Intent intent=new Intent( this ,MainActivity.class);
+        startActivity(intent);
+    }
+
+
 }
