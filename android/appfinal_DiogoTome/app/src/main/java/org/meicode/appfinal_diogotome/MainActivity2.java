@@ -9,10 +9,16 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
 public class MainActivity2 extends AppCompatActivity {
 
     private ImageView youtube;
-
+    String filename="./musicas/musicas.txt";
+    File myObj;
+    Scanner myReader;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -20,6 +26,7 @@ public class MainActivity2 extends AppCompatActivity {
 
 
         youtube = (ImageView) findViewById(R.id.imageView);
+        File myObj = new File(filename);
 
 /*
         youtube.setOnClickListener(new View.OnClickListener() {
